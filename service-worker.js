@@ -2,10 +2,8 @@ const CACHE_NAME = 'pengeluaran-harian-cache';
 const urlsToCache = [
     './',
     './index.html',
-    './style.css',
-    './script.js',
+    './index2.html',
     './manifest.json',
-    './icon.png'
 ];
 
 // Install service worker dan menyimpan sumber daya di cache
