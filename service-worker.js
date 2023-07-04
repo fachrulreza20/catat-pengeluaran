@@ -4,6 +4,7 @@ const urlsToCache = [
     './index.html',
     './index2.html',
     './manifest.json',
+    './icon.png'
 ];
 
 // Install service worker dan menyimpan sumber daya di cache
